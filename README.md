@@ -5,7 +5,7 @@
 -->
 ### Hi there 👋, I'm Ali Vakili
 
-#### brief introduction
+#### **brief introduction**
 - 🌱 I’m currently learning 📗python and 📒javascript
-- 🤔 Interested in FrontEnd and also Web design
+- 🤔 Interested in FrontEnd and Web design
 - 📫 How to reach me: hi.alivakili@gmail.com
