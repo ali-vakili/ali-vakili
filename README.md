@@ -6,6 +6,6 @@
 ### Hi there 👋, I'm Ali Vakili
 
 #### **brief introduction**
-- 🌱 I’m currently learning 📗python and 📒javascript
-- 🤔 Interested in FrontEnd and Web design
+- 🌱 My current focus is on React and working with it.
+- 🤔 Interested in Django.
 - 📫 How to reach me: hi.alivakili@gmail.com
