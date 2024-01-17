@@ -6,6 +6,5 @@
 ### Hi there 👋, I'm Ali Vakili
 
 #### **brief introduction**
-- 🌱 My current focus is on React and working with it.
-- 🤔 Interested in Django.
+- 🧑‍💻 Frontend developer, working with Next.js and React.
 - 📫 How to reach me: hi.alivakili@gmail.com
