@@ -6,5 +6,5 @@
 ### Hi there 👋, I'm Ali Vakili
 
 #### **brief introduction**
-- 🧑‍💻 Frontend developer, working with Next.js and React.
+- 🧑‍💻 Frontend developer, specialized in Next.js and React.
 - 📫 How to reach me: hi.alivakili@gmail.com
